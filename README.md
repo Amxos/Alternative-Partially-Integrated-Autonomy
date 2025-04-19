@@ -1,5 +1,5 @@
 
-# APIA (Alternative Partially Integrated Autonomy) - Refactored Framework v1.1
+# APIA (Alternative Partially Integrated Autonomy) 
 
 ## Overview
 
